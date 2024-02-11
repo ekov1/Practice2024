@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.HTTP", "SIS.HTTP\SIS.HTTP.csproj", "{A3DA3D9D-24A2-46C1-B4DD-BB7B4C7C710E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.WebServer", "SIS.WebServer\SIS.WebServer.csproj", "{7EE5F9EF-40DD-4308-924D-263F0A3479E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DA3D9D-24A2-46C1-B4DD-BB7B4C7C710E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DA3D9D-24A2-46C1-B4DD-BB7B4C7C710E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DA3D9D-24A2-46C1-B4DD-BB7B4C7C710E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DA3D9D-24A2-46C1-B4DD-BB7B4C7C710E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE5F9EF-40DD-4308-924D-263F0A3479E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE5F9EF-40DD-4308-924D-263F0A3479E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE5F9EF-40DD-4308-924D-263F0A3479E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE5F9EF-40DD-4308-924D-263F0A3479E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63737F6-9BA2-4EFF-AEED-A69E30DEC2AC}
+	EndGlobalSection
+EndGlobal
